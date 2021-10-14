@@ -2,9 +2,12 @@
 Repositório criado para o Desafio de Projeto
 
 ## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
-[Digital Innovation One](https://web.digitalinnovation.one/home)
-[Minecraft para Programadores - Code.org](https://code.org/minecraft)
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)   
+
+[Digital Innovation One](https://web.digitalinnovation.one/home)   
+
+[Minecraft para Programadores - Code.org](https://code.org/minecraft)   
+
 
 ## Canais e Instagrams com conteúdos gratuitos para aprender programação
 [Programador BR](https://www.youtube.com/c/Programadorbr)   
